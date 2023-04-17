@@ -2,7 +2,7 @@
 Building a react app with onchange functionality for HTML form for BocaCode C-10 in class practice.
 
 
-[![screen shot](./public/images/readme.png)](https://form-practice-jt.web.app/)
+[![screen shot](./public/images/Screen.png)](https://form-practice-jt.web.app/)
 
 ## Demo Link
 [See Link](https://form-practice-jt.web.app/)
@@ -16,9 +16,8 @@ Building a react app with onchange functionality for HTML form for BocaCode C-10
 ## Basic Code
 
 
-<label> FirstName
-<input type="text"
-</label>
+
+
 
 
 
